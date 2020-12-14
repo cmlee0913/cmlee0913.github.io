@@ -22,12 +22,12 @@ subtitle                 : "취업하게 해주세요" # site tagline that appea
 name                     : "이 창민"
 description              : "Unity C# C++"
 url                      : "https://cmlee0913.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/blog" # the subpath of your site, e.g. "/blog"
 repository               : "cmlee0913/cmlee0913.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "사진.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "아이콘.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-# breadcrumbs            : false # true, false (default)
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
@@ -96,7 +96,7 @@ author:
   name             : "이 창민"
   avatar           : "프사.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Unity C# C++"
-  location         : "Suwon"
+  location         : "Suwoncityboy"
   email            :
   links:
     - label: "Email"
