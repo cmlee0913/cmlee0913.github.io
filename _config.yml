@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Blog"
 title_separator          : "-"
 subtitle                 : "취업하게 해주세요" # site tagline that appears below site title in masthead
-name                     : "이 창민"
+name                     : "Lee Chang min"
 description              : "Unity C# C++"
 url                      : "https://cmlee0913.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
