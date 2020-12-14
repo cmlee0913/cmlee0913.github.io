@@ -22,7 +22,7 @@ subtitle                 : "취업하게 해주세요" # site tagline that appea
 name                     : "이 창민"
 description              : "Unity C# C++"
 url                      : "https://cmlee0913.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/blog" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cmlee0913/cmlee0913.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "사진.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "아이콘.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
