@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "이 창민"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/프사.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Unity C# C++"
   location         : "Suwon"
   email            :
