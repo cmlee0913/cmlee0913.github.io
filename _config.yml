@@ -10,7 +10,7 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-remote_theme             : "mistakes/minimal-mistakes"
+remote_theme             : mistakes/minimal-mistakes
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -112,7 +112,7 @@ author:
       url: "https://www.facebook.com/profile.php?id=100006646175666/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/cmlee0913"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/"
@@ -128,7 +128,7 @@ footer:
       url: "https://www.facebook.com/profile.php?id=100006646175666/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/cmlee0913"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
