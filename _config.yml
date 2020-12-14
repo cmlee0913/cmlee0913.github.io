@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "이 창민"
-  avatar           : "/assets/images/프사.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "프사.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Unity C# C++"
   location         : "Suwon"
   email            :
@@ -104,19 +104,19 @@ author:
       url: "mailto:cmlee0913@naver.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://cmlee0913.github.io"
+      # url: "https://cmlee0913.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://www.facebook.com/profile.php?id=100006646175666"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/cmlee0913"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://www.instagram.com/cmlee0913/"
 
 # Site Footer
 footer:
